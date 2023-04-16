@@ -6,22 +6,22 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Scene.unity
+    path: Assets/MyScenes/Scene.unity
     guid: 729346acda251ba45829e2cfc65c16ad
   - enabled: 0
-    path: Assets/Scenes/PRJ1.unity
+    path: Assets/MyScenes/PRJ1.unity
     guid: 48cca8ae570c3ea4ea2e82eda82b93b6
   - enabled: 0
-    path: Assets/Scenes/ASG4Scene.unity
+    path: Assets/MyScenes/ASG4Scene.unity
     guid: 4fa74010b664e324c83ec0f992f1cd6e
   - enabled: 0
     path: Assets/TextMesh Pro/MenuScene.unity
     guid: 1899a9c1ede048e4abcbd8a24456268d
   - enabled: 0
-    path: Assets/Scenes/Level1Scene.unity
+    path: Assets/MyScenes/Level1Scene.unity
     guid: da0aa98e777a4454abede818d9075e4e
   - enabled: 0
-    path: Assets/Scenes/Level2Scene.unity
+    path: Assets/MyScenes/Level2Scene.unity
     guid: a5d5476a08a5e6d43bc9801ffd848b04
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 97de5c3f931089e4999cc1354ac38730,

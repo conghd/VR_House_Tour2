@@ -9,6 +9,8 @@ TagManager:
   - ball
   - hand
   - grabbable
+  - furniture
+  - table
   layers:
   - Default
   - TransparentFX
